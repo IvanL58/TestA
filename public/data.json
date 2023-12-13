@@ -1,0 +1,48 @@
+[
+  {
+    "name": "athenahealth | Healthcare IT",
+    "dept": "Member of Technical Staff",
+    "startDate": 2017,
+    "endDate": 2019,
+    "accomplishments": [
+      "Developed widgets using React and Less to display patient information.",
+      "Created design specifications, participated in design and code reviews.",
+      "Worked on the design and initial development of a new platform to import medical documents.",
+      "Developed a Kotlin micro-service to generate XML documents based on a government-compliant architecture (CCDA)."
+    ]
+  },
+  {
+    "name": "General Motors | Cadillac.Com Team",
+    "dept": "Web Developer",
+    "startDate": 2015,
+    "endDate": 2017,
+    "accomplishments": [
+      "Developed new components for the award-winning website Cadillac.com and its mobile version.",
+      "Worked with stakeholders to refine and negotiate product requirement specifications, functional specifications, and product vision and direction.",
+      "Designed a web component that reduced page load speed by over 15%, improving SEO and accessibility, and saving authoring expenses.",
+      "Organized and participated in events representing GM at volunteering opportunities and competitions."
+    ]
+  },
+  {
+    "name": "MicroAssist Information Technology and Services",
+    "dept": "PHP Developer",
+    "startDate": 2014,
+    "endDate": 2015,
+    "accomplishments": [
+      "Designed and developed different web projects with a focus on accessibility, including new features and website enhancements.",
+      "Created and integrated an automated mail system with 3rd party APIs.",
+      "Developed and collaborated in the translation project of the ITTD website for the Texas Department of Public Safety."
+    ]
+  },
+  {
+    "name": "Hewlett-Packard Content & Digital Asset Management",
+    "dept": "IT Engineer",
+    "startDate": 2011,
+    "endDate": 2014,
+    "accomplishments": [
+      "Developed two internal content management systems (related to HP’s products documentation) with over three million monthly visitors.",
+      "Coordinated efforts with an overseas team, applying Agile methodologies to ensure on-time, on-spec project delivery.",
+      "Improved different batch jobs performance, reducing execution time by over 50%, and eliminating downtime."
+    ]
+  }
+]
